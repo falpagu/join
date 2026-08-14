@@ -203,9 +203,10 @@ Voraussetzung sind moderne ES6+-Features (`fetch`, `async/await`, Arrow Function
 
 Entwickelt im Rahmen der **Developer Akademie**:
 
+- **Fesih Alpagu**
 - **Manuel von Kneten**
 - **Quirin Pflaum**
-- **Fesih Alpagu**
+
 
 ---
 
