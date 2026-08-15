@@ -75,7 +75,7 @@ modularer Code-Organisation nachzuweisen.
 
 ---
 
-## Screenshots
+## Screenshot
 
 <div align="center">
 
