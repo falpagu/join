@@ -50,10 +50,8 @@ Developed as part of the **Developer Akademie**:
 - **Quirin Pflaum**
 
 
----
 
-<div align="center">
 
 _This project was created for training purposes and is not intended for productive use.._
 
-</div>
+
